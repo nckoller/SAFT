@@ -17,6 +17,4 @@ To start our app think of your favorite film and enter it into the search bar, a
  
 ### Credits
 MaterializeCSS was utilized for the project for all CSS needs, [MaterializeCSS](https://materializecss.com/about.html). We utilized  Materialize UI components to construct an attractive, consistent, and functional web app, while adhering to modern web design principles such as browser portability and making it responsive to a wide variety of devices. Additionally we utilized the Open Movie Database (link above) as a resource to provide the movie data that is requested by the user to populate our application with posters, release dates, ratings and extra detail on the cast and crew. We also utilized The Movie Database (link above) in conjunction with the Open Movie Database to provide more details on actors, directors and genres.
-A special Thanks for Team Apricots for making the SAFT project a dream into reality.
-An especially special thanks to expanding your movie horizons
-And thanks to you the user!
+
